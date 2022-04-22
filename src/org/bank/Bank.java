@@ -8,9 +8,10 @@ public class Bank extends LanguageInfo   {
 		
 	}
 	public void tamilLanguage() {
-	
+	System.out.println("Tamil");
 	
 	}
+	
 	public static void main(String[] args) {
 	
 		
